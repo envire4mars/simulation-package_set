@@ -3,4 +3,5 @@
        Open Dynamics Engine
     </description>
     <depend package="libtool" />
+    <depend package="automake" />
 </package>
