@@ -1,0 +1,7 @@
+<package>
+    <description brief="ODE">
+       Open Dynamics Engine
+    </description>
+    <depend package="libtool" />
+    <tags>needs_opt</tags>
+</package>
